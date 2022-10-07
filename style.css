@@ -1,0 +1,130 @@
+body{
+    margin: 0%;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+.firstdiv{
+    margin: ;
+    background-color:#DFF6FF;
+    padding-top: 100px;
+    height: min-content;
+    
+}
+.seconddiv{
+    
+
+}
+.thirddiv{
+    background-color: #66BFBF;
+    margin: 0%;
+    padding: 40px;
+}
+.copyright{
+    margin-bottom: 0%;
+    padding: 20px;
+    color: #EAF6F6;
+}
+.contactme{
+    width: 50%;
+    margin: 75px auto 75px auto;
+    line-height: 2;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.65rem;
+    margin: 20px auto 0px auto;
+    color: #66BFBF;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    size: 3;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.cloud2{
+    display: block;
+    position: relative;
+    left: 300px;
+}
+.cloud1{
+    display: block;
+    position: relative;
+    left: 800px;
+}
+.temtabimage{
+    border-radius: 100%;
+    background-color: burlywood;
+    border-top-style: solid;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.desktopimage{
+    border-radius: 100%;
+    margin-top: 20px;
+    float: left;
+    margin-right: 40px;
+}
+.swimmingimage{
+    border-radius: 100%;
+    margin-top: 20px;
+    float: right;
+    margin-left: 40px;
+}
+.footer-link{
+    color: #11999E;
+}
+.temtabskill{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+hr{
+    border-style: dotted;
+    border-width: 6px;
+    width: 4%;
+    border-bottom: 0ex;
+    margin: 100px auto;
+    
+    
+
+}
+.btn{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover{
+    color: burlywood;
+}
+.footer-link{
+    margin-right: 40px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.profile{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+}
